@@ -2,4 +2,4 @@ module MyPackage
 
 # Write your package code here.
 
-end
+end # end module
